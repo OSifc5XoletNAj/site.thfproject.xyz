@@ -104,6 +104,7 @@ button { cursor: pointer; font-family: inherit; background: none; border: none; 
 .nav-pill.youtube { background: #FF0000; color: #fff; }
 .nav-pill.donate  { background: #f5c400; color: #000; }
 .nav-pill.donate:hover { background: #ffd700; opacity: 1; }
+.nav-pill.email { background: #2742F5; color: #fff; }
 
 @media (max-width: 900px) {
   .nav-links { display: none; }
